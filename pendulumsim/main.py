@@ -1,5 +1,5 @@
-#This is my first sim
-# Pendulum Simulator
+
+# Double Pendulum Simulator
 
 import pygame
 import pymunk
