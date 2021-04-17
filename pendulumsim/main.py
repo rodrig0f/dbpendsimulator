@@ -3,7 +3,6 @@
 
 import pygame
 import pymunk
-import time
 
 pygame.init()
 
